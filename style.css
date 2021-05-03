@@ -6,7 +6,6 @@ font-family: 'Poppins', sans-serif; */
 body{
     background-image: url("images/back.jpg");
     background-size: cover;
-    overflow: hidden;
 }
 h1{
     font-family: 'Poppins', sans-serif;
